@@ -24,7 +24,7 @@
 ![image](https://github.com/anbuselvamA/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119559871/590ecbfb-f440-4521-bb03-c0f4e6034ca4)
 
 ### Name:A.Anbuselvam
-### Register Number:212222240009
+### Register Number:212222240009.
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
